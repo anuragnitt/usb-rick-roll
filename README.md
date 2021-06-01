@@ -8,5 +8,5 @@ Rick Roll someone when they insert a USB device in their Windows device!
 How to reset?
 
 *   Delete the ```usb_prank``` folder in C: drive.
-*   Press Windows+R and run ```shell:startup``` and delete ```devinsert.lnk```.
+*   Press Windows+R and run ```shell:startup``` and delete ```device_insert.lnk```.
 *   Go to Settings > Personalization > Themes > Sounds > and apply ```Windows Default``` sound scheme.
